@@ -39,7 +39,7 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import cert1 from "./assets/images/Certifications/cert1.png";
+import cert1 from "./assets/images/Certifications/zzzcert1.png";
 import cert2 from "./assets/images/Certifications/cert2.png";
 import cert3 from "./assets/images/Certifications/cert3.png";
 import cert4 from "./assets/images/Certifications/cert4.png";
