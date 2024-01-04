@@ -188,7 +188,7 @@ export const content = {
             firstName: "RICARDO",
             LastName: "SOLIS",
             btnText: "View my resume",
-            btnLink: "https://www.canva.com/design/DAF2nR84X-A/qHK209wO2dT_LF7FDjrqOg/view",
+            btnLink: "https://www.canva.com/design/DAF3ebUakDk/fmBd1Fab8OwHwW8KKRdV8g/edit?utm_content=DAF3ebUakDk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
             image: Hero_person,
             hero_content: [
                 {
@@ -505,7 +505,7 @@ export const content = {
             firstName: "RICARDO",
             LastName: "SOLIS",
             btnText: "Consulte mi currículum vítae",
-            btnLink: "https://www.canva.com/design/DAF2nR84X-A/qHK209wO2dT_LF7FDjrqOg/view",
+            btnLink: "https://www.canva.com/design/DAF3eves2hk/bwB7VAkCK8zfSqHmeT_lzQ/edit",
             image: Hero_person,
             hero_content: [
                 {

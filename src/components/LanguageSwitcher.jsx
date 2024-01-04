@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 function LanguageSwitcher({ lang, onChange }) {
-  const supportedLang = ["en", "es"];                // add like french??: ["en", "fr"];
+  const supportedLang = ["en", "es"];                // add french?: ["en", "es", "fr"];
   // console.log(lang);
   const [language, setLangugae] = useState(lang);
   return (
@@ -31,14 +31,5 @@ function LanguageSwitcher({ lang, onChange }) {
     </>
   );
 }
-
-{/* <option value={language === "en" ? "en" : "fr"}> 
-{language === "en" ? "🇺🇸" : "🇫🇷"}
-</option>
-<option value={language === "en" ? "fr" : "en"}>
-{language === "en" ? "🇫🇷" : "🇺🇸"}
-</option>
-</select> */}
-
 
 export default LanguageSwitcher;

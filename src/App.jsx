@@ -22,7 +22,7 @@ const App = () => {
             disable: "mobile",
         });
     }, []);
-    const supportedLangs = ["en", "fr", "es"]; //!
+    const supportedLangs = ["en", "es"]; //!
     const path = window.location.pathname.split("/")[1];
     const [lang, setLang] = useState(supportedLangs.includes(path) ? path : "en");
     const changeLangHandler = (country) => {
